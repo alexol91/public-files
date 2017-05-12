@@ -1,0 +1,98 @@
+.header-title {
+	background: #98C800;
+}
+
+.sub-header-title {
+	color: #98C800;
+}
+
+.sub-header-block {
+	background: #98C800;
+}
+
+a:hover,
+a:focus {
+	color: #98C800
+}
+
+.button-wrapper.action-button {
+	color: #98C800;
+}
+
+table tr th {
+	color: #98C800;
+}
+
+table tr th > a {
+	color: #98C800;
+}
+
+table tr th > a:active,
+table tr th > a:focus,
+table tr th > a:hover {
+	color: #98C800;
+}
+
+.sub-header-block .cross-btn {
+	background: #98C800;
+}
+
+ul.teams li.clickable:hover .team-name,
+ul.teams li.clickable:focus .team-name,
+ul.teams li.clickable:active .team-name {
+	color: #98C800;
+}
+
+.teamstatistics .rank-section .rank-wrapper .rank.chosen,
+.teamstatistics .rank-section .rank-wrapper .matches-played.chosen,
+.teamstatistics .rank-section .rank-wrapper .points.chosen {
+	color: #98C800;
+}
+
+.calendar tr th.date .live,
+.calendar tr td.date .live {
+	color: #98C800;
+}
+
+.lineup .lineup-content tr.coach td {
+	color: #98C800;
+}
+
+.schedule tr.live td.time span {
+	background-color: #98C800;
+}
+
+// Slightly lighter blue color in our color scheme:
+.sub-header-block .cross-btn:hover,
+.sub-header-block .cross-btn:active {
+	background: SLIGHTLYLIGHTERCOLORCODEHERE;
+}
+
+.lineup .list-items .list-item.player-focus {
+	background-color: SLIGHTLYLIGHTERCOLORCODEHERE;
+}
+
+.lineup .list-items .list-item .coach {
+	color: SLIGHTLYLIGHTERCOLORCODEHERE;
+}
+
+.lineup .tactics.horizontal-tactics.home,
+.lineup .tactics.vertical-tactics.home {
+	background-color: SLIGHTLYLIGHTERCOLORCODEHERE;
+}
+
+.block-formations .box-pitch .box-tactics .tactics.home .number {
+	background-color: SLIGHTLYLIGHTERCOLORCODEHERE;
+}
+
+.box-pitch .actions .person-action.home {
+	background-color: SLIGHTLYLIGHTERCOLORCODEHERE;
+}
+
+.list-items .list-item.active {
+	background-color: SLIGHTLYLIGHTERCOLORCODEHERE;
+}
+
+.score-board .score-minute {
+	background: SLIGHTLYLIGHTERCOLORCODEHERE;
+}
